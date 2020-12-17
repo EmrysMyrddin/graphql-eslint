@@ -1,5 +1,19 @@
 # @graphql-eslint/eslint-plugin
 
+## 0.5.0
+
+### Minor Changes
+
+- 08007cb: test release
+- 08007cb: Allow to load siblings operations
+- 08007cb: feature(processor): apply processor automatically on code files
+
+### Patch Changes
+
+- 08007cb: Better integration of siblings operations and graphql-config
+- 08007cb: fix(parser): better performance, make sure schema is loaded and cached
+- 08007cb: fix(parser): better support for graphql-config intergration and project detection
+
 ## 0.4.4
 
 ### Patch Changes
